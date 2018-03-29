@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.dagger:dagger-android-support:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11-rc2.aar/d72d5d335281998961c4b1ad25b4552f/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.dagger:dagger-android:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11-rc2.aar/20ad3df13344543c4db155af3cffe7a0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/445346e7be95ecfedd8683edd9d52800/AndroidManifest.xml:2:1-10:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d5d6b92f83e62f968e743929b2e46903/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce954c0f4671b6e2e3dccf9bdaf09bda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:7:5-12:19
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/445346e7be95ecfedd8683edd9d52800/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/445346e7be95ecfedd8683edd9d52800/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:11:9-40
+activity#fr.taouf.sample_taouf.MainActivity
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+MERGED from [com.google.dagger:dagger-android-support:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11-rc2.aar/d72d5d335281998961c4b1ad25b4552f/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11-rc2.aar/d72d5d335281998961c4b1ad25b4552f/AndroidManifest.xml:18:3-42
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-android:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11-rc2.aar/20ad3df13344543c4db155af3cffe7a0/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11-rc2.aar/20ad3df13344543c4db155af3cffe7a0/AndroidManifest.xml:18:3-42
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/445346e7be95ecfedd8683edd9d52800/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/445346e7be95ecfedd8683edd9d52800/AndroidManifest.xml:6:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d5d6b92f83e62f968e743929b2e46903/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d5d6b92f83e62f968e743929b2e46903/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce954c0f4671b6e2e3dccf9bdaf09bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce954c0f4671b6e2e3dccf9bdaf09bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/efb1d0f088ae1bf1b9c7e3131bbb4ac5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ba449f0845fddb37547a393993e9c734/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/460e3f0b36a4ef732d32971f4d3c83a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/23f3a2e4af3c2f0ea2714df1c62dc8ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5071741693ba44007d830cbff41e1401/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4050e2238e6e8a6fccc12642332c0859/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:27:13-51
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/574ff5f0343d10566731c7db08e2d770/AndroidManifest.xml:9:13-64
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:26:13-58
