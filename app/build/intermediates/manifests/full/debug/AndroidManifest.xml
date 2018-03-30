@@ -9,6 +9,7 @@
         android:targetSdkVersion="26" />
 
     <application
+        android:name="fr.taouf.sample_taouf.GithubApplication"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"

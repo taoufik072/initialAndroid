@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.google.dagger:dagger-android-support:2.11-rc2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11-rc2.aar/d72d5d335281998961c4b1ad25b4552f/AndroidManifest.xml:16:1-19:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:2:1-11:12
@@ -21,25 +21,25 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /Users/taoufikbeng
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ec469fb99e59e37585de25ef3edbd35/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5b2076337b007926f7c2ea4d584ca2eb/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/25cbb444d79566a447b4a6bdd15204ea/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77c68f0b97c3448a0ca961a68af7965a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taoufikbenguiza/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cc7a01d36508d5311ac56c997ba6b8c/AndroidManifest.xml:9:5-20
@@ -77,21 +77,23 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/taoufikbenguiza/.gradl
 	android:allowBackup
 		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:11:9-42
 activity#fr.taouf.sample_taouf.MainActivity
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/taoufikbenguiza/Documents/Geoks/SampleTaouf/app/src/main/AndroidManifest.xml

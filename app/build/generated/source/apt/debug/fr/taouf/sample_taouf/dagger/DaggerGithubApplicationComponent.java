@@ -7,6 +7,7 @@ import com.squareup.picasso.OkHttp3Downloader;
 import com.squareup.picasso.Picasso;
 import dagger.internal.DoubleCheck;
 import dagger.internal.Preconditions;
+import fr.taouf.sample_taouf.dagger.component.GithubApplicationComponent;
 import fr.taouf.sample_taouf.dagger.modules.ContextModule;
 import fr.taouf.sample_taouf.dagger.modules.ContextModule_ContextFactory;
 import fr.taouf.sample_taouf.dagger.modules.GithubServiceModule;
@@ -67,7 +68,8 @@ public final class DaggerGithubApplicationComponent implements GithubApplication
             NetworkModule_LoggingInterceptorLoggingInterceptorFactory.create(
                 builder.networkModule));
 
-    this.contextProvider = ContextModule_ContextFactory.create(builder.contextModule);
+    this.contextProvider =
+        DoubleCheck.provider(ContextModule_ContextFactory.create(builder.contextModule));
 
     this.fileProvider =
         DoubleCheck.provider(
@@ -98,11 +100,14 @@ public final class DaggerGithubApplicationComponent implements GithubApplication
                 builder.githubServiceModule, retrofitProvider));
 
     this.okHttp3DownloaderProvider =
-        PicassoModule_OkHttp3DownloaderFactory.create(builder.picassoModule, okHttpClientProvider);
+        DoubleCheck.provider(
+            PicassoModule_OkHttp3DownloaderFactory.create(
+                builder.picassoModule, okHttpClientProvider));
 
     this.picassoProvider =
-        PicassoModule_PicassoFactory.create(
-            builder.picassoModule, contextProvider, okHttp3DownloaderProvider);
+        DoubleCheck.provider(
+            PicassoModule_PicassoFactory.create(
+                builder.picassoModule, contextProvider, okHttp3DownloaderProvider));
   }
 
   @Override
